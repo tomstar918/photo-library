@@ -1,4 +1,52 @@
 {
-    "year2020": [{"url":"1"}],
-    "year2019": [{"url":"1"}]
+    "list": [
+        {
+            "name": "2020",
+            "prod": "https://github.com/tomstar918/photo-library/blob/master/test2020/",
+            "urlList": [
+                {
+                    "url": "1.png?raw=true"
+                },
+                {
+                    "url": "2.png?raw=true"
+                },
+                {
+                    "url": "3.png?raw=true"
+                },
+                {
+                    "url": "4.png?raw=true"
+                },
+                {
+                    "url": "5.png?raw=true"
+                }
+            ]
+        },
+        {
+            "name": "2019",
+            "prod": "https://github.com/tomstar918/photo-library/blob/master/test2019/",
+            "urlList": [
+                {
+                    "url": "1.png?raw=true"
+                },
+                {
+                    "url": "2.png?raw=true"
+                },
+                {
+                    "url": "3.png?raw=true"
+                },
+                {
+                    "url": "4.png?raw=true"
+                },
+                {
+                    "url": "5.png?raw=true"
+                },
+                {
+                    "url": "6.png?raw=true"
+                },
+                {
+                    "url": "7.png?raw=true"
+                }
+            ]
+        }
+    ]
 }
